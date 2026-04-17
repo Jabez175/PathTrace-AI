@@ -1,6 +1,10 @@
 # PathTrace AI
 
-PathTrace Engine is an AI-powered career navigation tool designed to help users build a personalized roadmap. Built as a React application using Vite, it evaluates user profiles and provides concrete direction for career development.
+**[🌐 View Live Application](https://pathtrack-de484.web.app/)**
+
+**PathTrace AI** is an intelligent, AI-powered career navigation engine designed to help students, job seekers, and career changers build concrete, personalized roadmaps to their dream roles. 
+
+By analyzing user resumes and comparing them to target job profiles using Google's Gemini AI, PathTrace replaces generic career advice with an interactive, milestone-driven pathway. It assesses your current readiness, highlights specific skill gaps, and breaks down your career journey into actionable, trackable steps.
 
 ## Features
 
