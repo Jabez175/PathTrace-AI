@@ -1,0 +1,271 @@
+[
+  {
+    "id": "AL-001",
+    "name": "Arjun Mehta",
+    "current_role": "Backend Engineer (Fintech)",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "certifications": [
+      "AWS Certified Developer Associate"
+    ],
+    "projects": [
+      "Distributed Ledger for Micro-payments",
+      "API Idempotency Layer"
+    ],
+    "exams_cleared": [
+      "GATE CS",
+      "Internal Fintech Security Cert"
+    ],
+    "courses_taken": [
+      "Google Cloud Professional Data Engineer",
+      "Coursera: Financial Markets"
+    ],
+    "history": "Started with basic C++ and Python in 2nd year."
+  },
+  {
+    "id": "AL-002",
+    "name": "Sara Khan",
+    "current_role": "Frontend Architect",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Tailwind",
+      "Next.js",
+      "WebSockets"
+    ],
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "projects": [
+      "Real-time Stock Dashboard",
+      "Accessibility-first Payment UI"
+    ],
+    "exams_cleared": [
+      "Google UX Design Professional"
+    ],
+    "courses_taken": [
+      "Frontend Masters: Advanced React",
+      "YouTube: Traversy Media Next.js Guide"
+    ],
+    "history": "Initially only knew basic HTML/CSS."
+  },
+  {
+    "id": "AL-003",
+    "name": "Leo Das",
+    "current_role": "DevOps & SRE",
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "Jenkins",
+      "AWS",
+      "Bash Scripting"
+    ],
+    "certifications": [
+      "CKA: Certified Kubernetes Administrator"
+    ],
+    "projects": [
+      "Auto-scaling Payment Infrastructure",
+      "Zero-downtime Deployment Pipeline"
+    ],
+    "exams_cleared": [
+      "AWS Solutions Architect"
+    ],
+    "courses_taken": [
+      "Microsoft Learn: Azure Fundamentals",
+      "KodeKloud: DevOps Path"
+    ],
+    "history": "Transitioned from a general IT background."
+  },
+  {
+    "id": "AL-004",
+    "name": "Priya Rajan",
+    "current_role": "Data Scientist (Risk)",
+    "skills": [
+      "R",
+      "Scikit-Learn",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "certifications": [
+      "Google Data Analytics Professional"
+    ],
+    "projects": [
+      "Fraud Detection Model (99% Accuracy)",
+      "User Churn Predictor"
+    ],
+    "exams_cleared": [
+      "Probability for Data Science (Internal)"
+    ],
+    "courses_taken": [
+      "IBM Data Science Professional",
+      "Coursera: Machine Learning by Andrew Ng"
+    ],
+    "history": "Strong math background, self-taught Python."
+  },
+  {
+    "id": "AL-005",
+    "name": "Vikram Singh",
+    "current_role": "Cybersecurity Analyst",
+    "skills": [
+      "Ethical Hacking",
+      "SIEM",
+      "Network Security",
+      "Metasploit"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "CEH"
+    ],
+    "projects": [
+      "Vulnerability Assessment of Internal Gateway",
+      "Phishing Simulation Tool"
+    ],
+    "exams_cleared": [
+      "Cisco CCNA Security"
+    ],
+    "courses_taken": [
+      "Google Cybersecurity Professional",
+      "Cybrary: SOC Analyst Path"
+    ],
+    "history": "Started with networking basics in 2nd year."
+  },
+  {
+    "id": "AL-006",
+    "name": "Anita George",
+    "current_role": "Mobile App Developer",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "SQLite",
+      "Riverpod"
+    ],
+    "certifications": [
+      "Google Associate Android Developer"
+    ],
+    "projects": [
+      "Peer-to-Peer Payment App",
+      "Offline-first Expense Tracker"
+    ],
+    "exams_cleared": [
+      "Apple App Store Review Guidelines Test"
+    ],
+    "courses_taken": [
+      "YouTube: Net Ninja Flutter Series",
+      "Udemy: Angela Yu Flutter Bootcamp"
+    ],
+    "history": "Switched from Web to Mobile in 3rd year."
+  },
+  {
+    "id": "AL-007",
+    "name": "Rohan Verma",
+    "current_role": "Product Manager (Technical)",
+    "skills": [
+      "Jira",
+      "Agile",
+      "SQL",
+      "Product Roadmap",
+      "Market Analysis"
+    ],
+    "certifications": [
+      "Google Project Management Professional"
+    ],
+    "projects": [
+      "Redesign of Merchant Onboarding",
+      "Unified Payment Interface Integration"
+    ],
+    "exams_cleared": [
+      "PSM I (Professional Scrum Master)"
+    ],
+    "courses_taken": [
+      "Coursera: Digital Product Management",
+      "Product School: PM Certification"
+    ],
+    "history": "Former developer with high business interest."
+  },
+  {
+    "id": "AL-008",
+    "name": "Siddharth J.",
+    "current_role": "Cloud Architect",
+    "skills": [
+      "Multi-cloud Strategy",
+      "Serverless",
+      "DynamoDB",
+      "IAM"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect Professional"
+    ],
+    "projects": [
+      "Serverless Credit Scoring System",
+      "Cloud Migration Strategy"
+    ],
+    "exams_cleared": [
+      "Microsoft Azure Architect Design"
+    ],
+    "courses_taken": [
+      "Cloud Academy: Serverless Computing",
+      "A Cloud Guru: GCP Path"
+    ],
+    "history": "Focused heavily on infrastructure early on."
+  },
+  {
+    "id": "AL-009",
+    "name": "Meera Iyer",
+    "current_role": "QA Automation Lead",
+    "skills": [
+      "Selenium",
+      "Cypress",
+      "JMeter",
+      "TestRail",
+      "Java"
+    ],
+    "certifications": [
+      "ISTQB Foundation Level"
+    ],
+    "projects": [
+      "Automated Regression Suite for Payments",
+      "Load Testing for Peak Sale"
+    ],
+    "exams_cleared": [
+      "Test Automation University: Java Path"
+    ],
+    "courses_taken": [
+      "Google IT Support Professional",
+      "Udemy: Selenium WebDriver"
+    ],
+    "history": "Started with manual testing, moved to automation."
+  },
+  {
+    "id": "AL-010",
+    "name": "Kevin Paul",
+    "current_role": "Fullstack Engineer",
+    "skills": [
+      "MERN Stack",
+      "GraphQL",
+      "Elasticsearch",
+      "CI/CD"
+    ],
+    "certifications": [
+      "MongoDB Certified Developer"
+    ],
+    "projects": [
+      "E-commerce CMS",
+      "Real-time Collaboration Tool"
+    ],
+    "exams_cleared": [
+      "HackerRank React (Advanced)"
+    ],
+    "courses_taken": [
+      "FullStack Open (Helsinki University)",
+      "YouTube: JS Mastery Portfolio Guide"
+    ],
+    "history": "Built 20+ small projects in 2 years."
+  }
+]
